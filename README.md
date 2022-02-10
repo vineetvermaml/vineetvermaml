@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vineetvermaml from India
-- 👀 I’m interested in Machine Learning and Artifical Intelligence in Python
-- 🌱 I’m currently learning Unsupervised Learning Models
+- 👀 I’m working in Machine learning and Deep learning projects
+- 🌱 I’m currently learning more about Transformers based models
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me : mail me vermavineet87@gmail.com 
 
